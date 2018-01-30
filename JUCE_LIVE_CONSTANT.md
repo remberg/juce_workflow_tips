@@ -10,3 +10,6 @@ sampleButton->setBounds (JUCE_LIVE_CONSTANT(0.20f), 0.025f, 0.04f, 0.09f);<br />
 
 ![Screenshot](https://raw.githubusercontent.com/Remberg/juce_workflow_tips/master/JUCE_LIVE_CONSTANT.gif)
 
+<b>More about JUCE_LIVE_CONSTANT</b><br />
+https://juce.com/doc/group__juce__gui__extra-misc#gae2cc503e5069bf8510953e212317abaa<br />
+Also check JUCE_LIVE_CONSTANT in the JUCEDemo https://juce.com/
