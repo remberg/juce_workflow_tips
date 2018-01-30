@@ -18,6 +18,8 @@ kPlugCategShell<br />
 kPlugCategGenerator<br />
 
 <b>Plugin AAX Category</b><br />
+https://forum.juce.com/search?q=AAX%20Category<br />
+
 AAX_ePlugInCategory_None<br />
 AAX_ePlugInCategory_EQ<br />
 AAX_ePlugInCategory_Dynamics<br />
