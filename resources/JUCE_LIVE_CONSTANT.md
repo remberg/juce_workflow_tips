@@ -8,7 +8,7 @@ JUCE_LIVE_CONSTANT(Colour(0xff161616))<br />
 sampleButton->setBounds (JUCE_LIVE_CONSTANT(0.20f), 0.025f, 0.04f, 0.09f);<br /><br />
 <b>Make sure that there is only one JUCE_LIVE_CONSTANT per line!</b><br />
 
-![Screenshot](https://raw.githubusercontent.com/Remberg/juce_workflow_tips/blob/master/resources/JUCE_LIVE_CONSTANT.gif)
+![Screenshot](https://github.com/remberg/juce_workflow_tips/blob/master/resources/JUCE_LIVE_CONSTANT.gif)
 
 <b>More about JUCE_LIVE_CONSTANT</b><br />
 https://juce.com/doc/group__juce__gui__extra-misc#gae2cc503e5069bf8510953e212317abaa<br />
