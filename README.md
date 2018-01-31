@@ -1,15 +1,8 @@
 # Some JUCE workflow tips
 
-Usable plugin categories for JUCE Projucer:<br />
-https://github.com/remberg/juce_workflow_tips/blob/master/resources/plugin_categories.md
+[Usable plugin categories for JUCE Projucer](resources/plugin_categories.md)
 
-JUCE Projucer GUI Editor
-1. Prototyping with JUCE Projucer GUI Editor:<br />
-https://github.com/remberg/juce_workflow_tips/blob/master/resources/prototyping.md<br />
-2. Use JUCE Projucer GUI Editor to Convert text to a path<br />
-https://github.com/remberg/juce_workflow_tips/blob/master/resources/TextToPath.md
-
-
-Fine tuning with JUCE_LIVE_CONSTANT:<br />
-https://github.com/remberg/juce_workflow_tips/blob/master/resources/JUCE_LIVE_CONSTANT.md
+[Prototyping with JUCE Projucer GUI Editor](resources/prototyping.md)<br /><img src="resources/prototyping2.jpg" width="450"/><br />
+[Use JUCE Projucer GUI Editor to Convert text to a path](resources/TextToPath.md)<br /><img src="resources/TextToPath.gif" width="450"/><br />
+[Fine tuning with JUCE_LIVE_CONSTANT](resources/JUCE_LIVE_CONSTANT.md)<br /><img src="resources/JUCE_LIVE_CONSTANT.gif" width="450"/>
 
