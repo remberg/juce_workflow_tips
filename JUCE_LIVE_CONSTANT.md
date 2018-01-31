@@ -1,4 +1,4 @@
-# Finetuning with JUCE_LIVE_CONSTANT
+# Fine tuning with JUCE_LIVE_CONSTANT
 Use the JUCE_LIVE_CONSTANT to place and colorize components.
 <br /><br />
 <b>Simply surround a Color or Float for example with JUCE_LIVE_CONSTANT()</b><br />
