@@ -10,6 +10,6 @@ https://github.com/remberg/juce_workflow_tips/blob/master/prototyping.md<br />
 https://github.com/remberg/juce_workflow_tips/blob/master/TextToPath.md
 
 
-Finetuning with JUCE_LIVE_CONSTANT:<br />
+Fine tuning with JUCE_LIVE_CONSTANT:<br />
 https://github.com/remberg/juce_workflow_tips/blob/master/JUCE_LIVE_CONSTANT.md
 
