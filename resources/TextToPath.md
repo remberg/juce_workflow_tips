@@ -1,3 +1,3 @@
 # Use JUCE Projucer GUI Editor to convert text to a path
 
-![Screenshot](https://raw.githubusercontent.com/Remberg/juce_workflow_tips/master/TextToPath.gif)
+![Screenshot](https://github.com/remberg/juce_workflow_tips/blob/master/resources/TextToPath.gif)
